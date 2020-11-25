@@ -1,0 +1,8 @@
+.body-music {
+    background-image: url("../images/partitura.jpg");
+    background-size: cover;
+}
+.body-degradado {
+    background-image: url("../images/degradado.jpg");
+    background-size: cover;
+}
